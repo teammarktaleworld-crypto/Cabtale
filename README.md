@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/5f644bd7-3f35-4729-8409-6b13ec49b009" alt="Cabtale Logo" width="320"/>
 </p>
 
-<h1 align="center">Cabtale — Modern Ride-Sharing Platform</h1>
+<h1 align="center">Cabtale</h1>
 
 <p align="center">
   <em>Connecting riders and drivers with real-time precision.</em>
