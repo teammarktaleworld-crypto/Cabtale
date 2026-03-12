@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556271392691",
+    "project_id": "cabtale-7",
+    "storage_bucket": "cabtale-7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556271392691:android:72322f6427b05b005cddc6",
+        "android_client_info": {
+          "package_name": "com.cabtale.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPo6PTAcXY_lbT5YYwD82NWNxOO4lPHmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556271392691:android:b6e3d0dba26adf625cddc6",
+        "android_client_info": {
+          "package_name": "com.cabtale.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPo6PTAcXY_lbT5YYwD82NWNxOO4lPHmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
